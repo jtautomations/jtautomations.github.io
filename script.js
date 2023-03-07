@@ -299,6 +299,10 @@ function link(Item) {
   case 93:
     window.open("https://www.paypal.com/donate?hosted_button_id=5JVBHRCUVZYG6", "_blank"); 
   break
+  break
+  case 94:
+    window.open("https://www.paypal.com/donate/?hosted_button_id=2JHAEH5K68WTG", "_blank"); 
+  break
 } 
 }
 }
